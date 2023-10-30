@@ -1,39 +1,4 @@
 
-Conversation opened. 2 messages. All messages read.
-
-Skip to content
-Using Agnel Institute of Technology & Design Mail with screen readers
-in:sent 
-Enable desktop notifications for Agnel Institute of Technology & Design Mail.
-   OK  No thanks
-
-12 of 120
-OOPS Lab 6
-Inbox
-
-Vignesh Naik
-AttachmentsOct 10, 2023, 2:09 PM
- 
-
-Vignesh Naik <22co70@aitdgoa.edu.in>
-Attachments
-Oct 10, 2023, 2:10 PM
-to Neil
-
-
-
----------- Forwarded message ---------
-From: Vignesh Naik <22co70@aitdgoa.edu.in>
-Date: Tue, Oct 10, 2023 at 2:09 PM
-Subject: OOPS Lab 6
-To: Vignesh Naik <22co70@aitdgoa.edu.in>
-
-
-
-
-8
- Attachments
-  •  Scanned by Gmail
 #include <iostream>
 using namespace std;
 class inch;
@@ -76,5 +41,3 @@ int main()
     f1.display();
     i1.display();
 }
-program5.cpp
-Displaying program2a.cpp.
